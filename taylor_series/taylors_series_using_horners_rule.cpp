@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+
 // 1.recursive function
 
 double taylor(double x, double n)
